@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-The dashboard was developed using a concrete batching plant dataset containing production, cement consumption, energy usage, diesel consumption, renewable electricity adoption, and CO₂ emissions metrics. The objective was to simulate a real-world sustainability reporting environment used by ESG teams, Sustainability Managers, and executive leadership.
+The dashboard was developed using a concrete batching plant dataset containing production, cement consumption, energy usage, diesel consumption, renewable electricity adoption, and CO₂ emissions metrics. The objective was to simulate a real-world sustainability reporting environment used by ESG teams and Sustainability Managers.
 
 ---
 
