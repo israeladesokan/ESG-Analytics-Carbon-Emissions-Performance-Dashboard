@@ -95,7 +95,8 @@ The dashboard aligns with widely adopted sustainability reporting frameworks and
 
 <img width="1117" height="632" alt="Executive Summary" src="https://github.com/user-attachments/assets/7ba9703a-f639-466d-a629-989b1d6bd003" />
 
-<img width="1117" height="632" alt="Executive Summary" src="https://github.com/user-attachments/assets/a318a56a-7b93-4612-9dc2-7c8474f611af" />
+<img width="1121" height="635" alt="Energy and Fuel Analysis" src="https://github.com/user-attachments/assets/54cf35ce-e869-44d2-bc9e-b410c609eaab" />
+
 
 <img width="1121" height="630" alt="Emissions Analysis" src="https://github.com/user-attachments/assets/140debc8-ec4b-48c8-923c-ddc8b3e45d61" />
 
